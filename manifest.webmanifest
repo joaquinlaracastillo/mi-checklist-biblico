@@ -1,0 +1,9 @@
+{
+  "name": "Mi Checklist Bíblico",
+  "short_name": "Checklist Bíblico",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf8f1",
+  "theme_color": "#244b3b",
+  "description": "Checklist personal de lectura bíblica"
+}
