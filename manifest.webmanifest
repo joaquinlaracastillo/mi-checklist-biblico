@@ -5,5 +5,13 @@
   "display": "standalone",
   "background_color": "#faf8f1",
   "theme_color": "#244b3b",
-  "description": "Checklist personal de lectura bíblica"
+  "description": "Checklist personal de lectura bíblica",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
